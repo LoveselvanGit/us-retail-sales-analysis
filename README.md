@@ -41,7 +41,7 @@ Install the required Python libraries:
 pip install pandas matplotlib seaborn
 
 How to Run the Notebook
-git clone https://github.com/yourusername/us-retail-sales-analysis.git
+git clone https://github.com/LoveselvanGit/us-retail-sales-analysis.git
 cd us-retail-sales-analysis
 jupyter notebook notebooks/DSC630_WEEK8_MAHALINGAM.ipynb
 Run the Notebook Cells to execute the analysis and visualize the results.
